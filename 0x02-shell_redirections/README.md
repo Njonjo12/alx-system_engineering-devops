@@ -1,1 +1,1 @@
-file 2-hello file prints the content of the /etc/passwd file
+File 3-twofiles dipslay the content of /etc/passed and hosts files
