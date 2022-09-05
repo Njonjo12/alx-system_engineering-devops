@@ -1,1 +1,1 @@
-File 5-firstlines dispalys the first 10 lines of /etc/passwd file
+File 6-third_line is a script that displays the third line of iacta file
