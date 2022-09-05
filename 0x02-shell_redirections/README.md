@@ -1,1 +1,1 @@
-File 3-twofiles dipslay the content of /etc/passed and hosts files
+File 4-lastlines displays the last 10 lines of /etc/pawssd
