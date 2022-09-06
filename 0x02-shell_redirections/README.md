@@ -1,1 +1,1 @@
-script that displays 10 newest lines in the current directory
+FILE 13-unique is a script that tales a list of words as input and prints only words that appear exactly once
