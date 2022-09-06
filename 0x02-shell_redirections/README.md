@@ -1,1 +1,1 @@
- a script that counts the number of directories and sub-directories in the current directory.
+script that displays 10 newest lines in the current directory
