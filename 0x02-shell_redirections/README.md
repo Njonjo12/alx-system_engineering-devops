@@ -1,1 +1,1 @@
-File 6-third_line is a script that displays the third line of iacta file
+File 7-file is a script that creates a file
